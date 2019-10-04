@@ -201,6 +201,7 @@ button {
     padding: 14px 20px;
     cursor: pointer;
     width: 100%;
+    color: inherit;
 }
 
 .footer{
@@ -210,9 +211,6 @@ button {
     height: 200px;
     background: #02b7c2;
     border-radius: 20px;
+    color: inherit;
 
 }
-
-
-
-
